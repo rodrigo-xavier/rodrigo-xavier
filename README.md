@@ -3,3 +3,4 @@
 
 
 ![Rodrigo Xavier github stats](https://github-readme-stats.vercel.app/api?username=rodrigo-xavier&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-xavier&layout=compact)](https://github.com/rodrigo-xavier/github-readme-stats)
