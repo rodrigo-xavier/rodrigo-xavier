@@ -7,7 +7,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-xavier&layout=compact&hide=javascript,assembly,css,verilog&langs_count=15)](https://github.com/rodrigo-xavier/github-readme-stats)
 
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=rodrigo-xavier&repo=about-me&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=rodrigo-xavier&repo=GuitarHero&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=rodrigo-xavier&repo=xadrez&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=rodrigo-xavier&repo=donkey-kong&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+[![Rodrigo Xavier wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodrigo-xavier)](https://github.com/rodrigo-xavier/github-readme-stats)
