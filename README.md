@@ -8,3 +8,6 @@
 
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=rodrigo-xavier&repo=about-me&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=rodrigo-xavier&repo=GuitarHero&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=rodrigo-xavier&repo=xadrez&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=rodrigo-xavier&repo=donkey-kong&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
