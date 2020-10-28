@@ -4,4 +4,4 @@
 
 ![Rodrigo Xavier github stats](https://github-readme-stats.vercel.app/api?username=rodrigo-xavier&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-xavier&layout=compact&hide=javascript,assembly,css,verilog&langs_count=15)](https://github.com/rodrigo-xavier/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-xavier&layout=compact&hide=javascript,assembly,css,verilog,html&langs_count=15)](https://github.com/rodrigo-xavier/github-readme-stats)
