@@ -4,6 +4,6 @@
 
 ![Rodrigo Xavier github stats](https://github-readme-stats.vercel.app/api?username=rodrigo-xavier&show_icons=true&theme=dark&bg_color=70,141414,000000)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rodrigo-xavier/rodrigo-xavier/blob/output/github-contribution-grid-snake.svg)
 
 
