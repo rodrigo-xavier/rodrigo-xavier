@@ -1,8 +1,11 @@
 ## 👀 Contador de Visitas
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SEU_USUARIO&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false" alt="Contador de visitas">
+  
+  ![Contador de Visitas](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitas&query=value&suffix=%20👀&url=https://api.countapi.xyz/hit/SEU_USUARIO/visits)
+
 </div>
+
 
 
 
