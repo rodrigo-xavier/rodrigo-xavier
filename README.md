@@ -1,10 +1,6 @@
 ## 👀 Contador de Visitas
 
-<div align="center">
-  
-  ![Contador de Visitas](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitas&query=value&suffix=%20👀&url=https://api.countapi.xyz/hit/SEU_USUARIO/visits)
-
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frodrigo-xavier&count_bg=%2379C83D&title_bg=%23555555&icon=showpad.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 
