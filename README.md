@@ -1,8 +1,4 @@
-## 👀 Contador de Visitas
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frodrigo-xavier&count_bg=%2379C83D&title_bg=%23555555&icon=showpad.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-
 
 
 [![Linkedin](https://img.shields.io/badge/-rodrigoxavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigomxavier/)](https://www.linkedin.com/in/rodrigomxavier/)
