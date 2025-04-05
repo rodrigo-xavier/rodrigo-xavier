@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rodrigo-xavier.rodrigo-xavier">
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rodrigo-xavier.rodrigo-xavier"> -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -15,41 +15,45 @@
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="Node.js" height="25" src="images/node-js.png"></code>
+  <code><img title="React.js" height="25" src="images/react-original.svg"></code>
+  <code><img title="Next.js" height="25" src="images/nextjs.png"></code>
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <!-- <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Postman" height="25" src="images/postman.svg"></code>
+  <code><img title="Docker" height="25" src="images/docker.svg"></code>
+  <code><img title="Selenium" height="25" src="images/selenium.svg"></code>
+  <code><img title="Jupyter" height="25" src="images/jupyter.svg"></code>
+  <code><img title="AWS" height="25" src="images/aws.svg"></code>
+  <code><img title="Circle CI" height="25" src="images/circleci.svg"></code>
+  <code><img title="Linux" height="25" src="images/linux.svg"></code>
+  <code><img title="Makefile" height="25" src="images/makefile.svg"></code>
+  <code><img title="Swagger" height="25" src="images/swagger.svg"></code>
+  <code><img title="Wordpress" height="25" src="images/wordpress.svg"></code>
+  <code><img title="Arduino" height="25" src="images/arduino.svg"></code>
+  <code><img title="Raspberry Pi" height="25" src="images/raspberry-pi.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="Slack" height="25" src="images/slack-svgrepo.svg"></code>
+  <code><img title="Markdown" height="25" src="images/markdown.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <!-- <code><img title="Android" height="25" src="images/android.svg"></code> -->
+  <!-- <code><img title="PHP" height="25" src="images/php.svg"></code> -->
+  <!-- <code><img title="Flask" height="25" src="images/flask.png"></code> -->
 </p>
-<hr>
 
-<!--<h2 align="center">⚡ Stats ⚡</h2>
+<!--<hr>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
