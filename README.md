@@ -8,7 +8,8 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/rodrigomxavier/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:rodrigomatiasxavier@gmail.com" title="Gmail"><img width="22" src="images/gmail.svg">rodrigomatiasxavier@gmail.com</a></code>
+  <code><a href="mailto:rodrigomatiasxavier@gmail.com" title="Gmail"><img width="22" src="images/gmail.svg"> rodrigomatiasxavier@gmail.com</a></code>
+  <code><a href="https://rodrigo-xavier.github.io/Portfolio/" title="Portfolio"><img width="22" src="images/portfolio.svg"> Portfolio</a></code>
 <!--   <code><a href="" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code> -->
 <!--   <code><a href="" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
 </h5>
