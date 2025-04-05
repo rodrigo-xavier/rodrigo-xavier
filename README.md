@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rodrigo+M.+Xavier....;Nice+to+meet+you!;And+Welcome+to+my+Github+Profile&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Rodrigo+M.+Xavier....;Nice+to+meet+you!;Welcome+to+my+Profile&center=true&size=30">
   </a>
 </h1>
 
@@ -49,7 +49,7 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!--<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -67,13 +67,9 @@
     </a>
   </div>
   <br>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigo-xavier&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-<hr>
-
-[![Linkedin](https://img.shields.io/badge/-rodrigoxavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigomxavier/)](https://www.linkedin.com/in/rodrigomxavier/)
-[![Gmail](https://img.shields.io/badge/-rodrigomatiasxavier@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigomataisxavier@gmail.com)](mailto:rodrigomatiasxavier@gmail.com) 
+<hr> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
