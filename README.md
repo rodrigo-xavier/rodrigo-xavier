@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Rodrigo+M.+Xavier....;Nice+to+meet+you!;Welcome+to+my+Profile&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Rodrigo+M.+Xavier;FullStack+Developer;Nice+to+meet+you!;Welcome+to+my+Profile&center=true&size=30">
   </a>
 </h1>
 
@@ -13,14 +13,13 @@
 <!--   <code><a href="" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
 </h5>
 
-<hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Node.js" height="25" src="images/node-js.png"></code>
+  <code><img title="Node.js" height="25" src="images/node-js.svg"></code>
   <code><img title="React.js" height="25" src="images/react-original.svg"></code>
-  <code><img title="Next.js" height="25" src="images/nextjs.png"></code>
+  <code><img title="Next.js" height="25" src="images/nextjs.svg"></code>
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <!-- <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
